@@ -1,7 +1,7 @@
 = Hola Mundo!
 
 ++++
-<h1>Este es mi primer post</h1>
+<h1>Mi primer post!</h1>
 
 Humildad, respeto y Perseverancia.
 
