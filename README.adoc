@@ -1,4 +1,4 @@
-#mynorbriones.github.io
+#mynor-briones.github.io
 
 = HubPress
 
